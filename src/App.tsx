@@ -85,9 +85,12 @@ const  App = () => {
 
   return (
     <div className="App">
+      <Typography variant="h3" textAlign={'center'}>
+        React Calculator
+      </Typography>
       <Box
         sx={{
-          height: "100vh",
+          height: "80vh",
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
