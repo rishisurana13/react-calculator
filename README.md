@@ -10,3 +10,8 @@ then run `npm start` and navigate to `http://localhost:3000/` to use the calcula
 
 
 The website is available on this URL: https://rishisurana13.github.io/react-calculator/
+
+
+## Known limitations
+- Does not work properly on mobile
+- Limited error handling
